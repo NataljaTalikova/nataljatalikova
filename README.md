@@ -1,4 +1,3 @@
-# Natalja Talikova
 **Quantitative Finance & Data Science MSc | ESG-Driven Analyst | R & Python Practitioner**  
 📍 London, UK | 😄 Pronouns: She/Her  
 
