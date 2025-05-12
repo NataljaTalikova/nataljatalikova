@@ -1,16 +1,38 @@
-## Hi there 👋
+# Natalja Talikova
+**Quantitative Finance & Data Science MSc | ESG-Driven Analyst | R & Python Practitioner**  
+📍 London, UK | 😄 Pronouns: She/Her  
 
-<!--
-**NataljaTalikova/nataljatalikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm transitioning back into professional life with a background in project management and a current focus on quantitative finance and data science—with an ESG twist.  
+
+Pursuing an MSc in Quantitative Finance with Data Science at Birkbeck, I blend academic rigor with cross-sector experience and real-world adaptability. I'm keen to contribute analytical, technical, and strategic insights in collaborative, research-driven environments.
+
+---
+
+## 🔬 Current Work
+
+- 📊 Writing an MSc dissertation on stock price forecasting  
+- 🧮 Exploring stochastic integrals & multivariate geometric Brownian motion  
+- 🌱 Passionate about ESG-related projects involving statistical modelling, data analytics, and machine learning  
+
+---
+
+## 🎯 Interests
+
+- Sustainable finance & ethical technology  
+- Data visualization & storytelling  
+- Restorative practice, yoga, and fine arts  
+
+---
+
+## 🔗 Portfolio & Contact
+
+- 📁 [R Portfolio](https://github.com/NataljaTalikova/Statistical-Learning-with-R)  
+- 📂 [Python Portfolio](https://github.com/NataljaTalikova/ExponentialPro)  
+- 📧 natalja.talikova@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/natalia-talikova/)  
+
+---
