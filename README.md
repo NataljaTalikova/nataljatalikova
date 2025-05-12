@@ -11,7 +11,7 @@ Pursuing an MSc in Quantitative Finance with Data Science at Birkbeck, I blend a
 
 ---
 
-## 🔬 Current Work
+## 🔬 Focus Areas
 
 - 📊 Writing an MSc dissertation on stock price forecasting  
 - 🧮 Exploring stochastic integrals & multivariate geometric Brownian motion  
