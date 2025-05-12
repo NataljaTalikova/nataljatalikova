@@ -11,7 +11,7 @@ Pursuing an MSc in Quantitative Finance with Data Science at Birkbeck, I blend a
 
 ---
 
-## 🔬 Focus Areas
+## 🧠 Focus Areas
 
 - 📊 Writing an MSc dissertation on stock price forecasting  
 - 🧮 Exploring stochastic integrals & multivariate geometric Brownian motion  
@@ -19,7 +19,7 @@ Pursuing an MSc in Quantitative Finance with Data Science at Birkbeck, I blend a
 
 ---
 
-## 🎯 Interests
+## 🌿 Interests
 
 - Sustainable finance & ethical technology  
 - Data visualization & storytelling  
