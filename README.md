@@ -1,49 +1,59 @@
-**ESG-Driven Analyst | SQL, R & Python Practitioner**  
+## Quantitative Finance & Data Science Specialist | MSc Birkbeck 
 📍 London, UK | 😄 Pronouns: She/Her  
 
 ---
 
 ## 👋 About Me
 
-I'm transitioning back into professional life with a background in project management and a current focus on quantitative finance and data science—with an ESG twist.  
+I am a data professional operating at the intersection of Quantitative Finance and Machine Learning. My approach bridges the gap between academic rigour (MSc from Birkbeck, University of London) and over a decade of commercial project management experience.
 
-Graduated MSc in Quantitative Finance with Data Science at Birkbeck, I blend academic rigor with cross-sector experience and real-world adaptability. I'm keen to contribute analytical, technical, and strategic insights in collaborative, research-driven environments.
+I specialise in building robust and interpretable predictive models, with a particular focus on Credit Risk, Statistical Learning, and ESG-driven analytics. I thrive in environments that require both high-level strategic thinking and granular data engineering.
 
 ---
 
 ## 🧠 Focus Areas
 
-- 📊 Pursuing carity and reproducibility in analytical data pipelines
-- 🧮 Exploring lightweight front-end interfaces for applied machine learning projects
-- 🌱 Passionate about ESG-related projects involving statistical modelling, data analytics, and machine learning
+- 📊 ** Financial Quant** Risk Modelling (Market/Credit), Time Series Analysis, Financial Econometrics  
+- 🧮 Pursuing **clarity and reproducibility** in analytical data pipelines
+- 🌱 ESG-related projects involving **statistical modelling, data analytics, and machine learning**
 
 ---
 
 ## 🛠 Technical Background
 
-- **Languages:** Python, R, SQL  
-- **Databases:** PostgreSQL  
-- **Environments:** Jupyter Notebook, RStudio, VS Code  
+**Languages:**  
+Python, R, SQL  
 
-- **Data Analysis & Statistics**  
-      Libraries (Py): Pandas, NumPy, Sckitlearn, SciPy, Xgboost, Tensor Flow
-      Libraries (R): caret, e1071, xgboost, pROC, themis, recipes
+**Databases:**  
+PostgreSQL  
 
+**Environments:**  
+Jupyter Notebook, RStudio, VS Code  
 
-- **Visualisation:**  
-  matplotlib, seaborn, ggplot2  
+**Data Analysis & Statistics**
 
-- **BI & Reporting:** Power BI  
-- **Version Control:** Git, GitHub  
+- **Python libraries:**  
+  pandas, NumPy, scikit-learn, SciPy, XGBoost, TensorFlow  
+
+- **R libraries:**  
+  caret, e1071, xgboost, pROC, themis, recipes  
+
+**Visualisation:**  
+matplotlib, seaborn, ggplot2  
+
+**BI & Reporting:**  
+Power BI  
+
+**Version Control:**  
+Git, GitHub  
 
 ---
 
 ## 🌿 Interests
 
 - Sustainable finance & ethical technology  
-- Data visualization & storytelling  
+- Data visualisation & storytelling  
 - Restorative practice, yoga, and fine arts  
-
 ---
 
 ## 🔗 Portfolio & Contact
@@ -52,6 +62,6 @@ Graduated MSc in Quantitative Finance with Data Science at Birkbeck, I blend aca
 - 📂 [Python Portfolio](https://github.com/NataljaTalikova/ExponentialPro)
 - 📂 [SQL-Power BI Portfolio](https://github.com/NataljaTalikova/SQL-PBI-hpi-mortgage-lags)
 - 📧 natalja.talikova@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/natalia-talikova/)  
+- 🔗 
 
 ---
