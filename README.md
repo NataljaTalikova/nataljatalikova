@@ -13,7 +13,7 @@ I specialise in building robust and interpretable predictive models, with a part
 
 ## 🧠 Focus Areas
 
-- 📊 ** Financial Quant** Risk Modelling (Market/Credit), Time Series Analysis, Financial Econometrics  
+- 📊 **Financial Risk Modelling** (Market/Credit), Time Series Analysis, Financial Econometrics  
 - 🧮 Pursuing **clarity and reproducibility** in analytical data pipelines
 - 🌱 ESG-related projects involving **statistical modelling, data analytics, and machine learning**
 
