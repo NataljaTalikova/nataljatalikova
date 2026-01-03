@@ -1,4 +1,4 @@
-**ESG-Driven Analyst | R & Python Practitioner**  
+**ESG-Driven Analyst | SQL, R & Python Practitioner**  
 📍 London, UK | 😄 Pronouns: She/Her  
 
 ---
